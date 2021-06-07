@@ -24,8 +24,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog.
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "the-egyptian.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: the-egyptian
+github_username:  the-egyptian
+
+# Fields minima uses
+author: the egyptian
+linkedin_username: the-egyptian
+youtube_username: the-egyptian
+
+# custom fields
+copyright: "Hack the World LLC"
+title-logo: /images/title-logo.png
 
 # Build settings
 # Removed minima theme as it is now regular theme.
